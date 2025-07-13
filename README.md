@@ -19,13 +19,13 @@ Here are some featured projects that showcase my skills and interests:
 - 🛍️ **[Shopping List App](https://github.com/MinMonChel-hazel/Shopping-List)**  
   A beginner-friendly app made with vanilla JavaScript and DOM manipulation.
 
-- 🌀 **[Animated Clock](https://github.com/MinMonChel-hazel/Animated-Clock)**  
+- 🌀 **[Animated Clock](https://github.com/MinMonChel-hazel/Clock)**  
   A modern analog & digital clock with smooth CSS animations and real-time JavaScript updates.
 
-- 🔢 **[Counter App](https://github.com/MinMonChel-hazel/Counter-App)**  
+- 🔢 **[Counter App](https://github.com/MinMonChel-hazel/Counter-Project)**  
   Lightweight JavaScript-based counter demonstrating basic DOM manipulation and state logic.
 
-- 💻 **[Tailwind UI Sample (Vue)](https://github.com/MinMonChel-hazel/Tailwind-Vue-UI)**  
+- 💻 **[Tailwind UI Sample](https://github.com/MinMonChel-hazel/Tailwind-Css-Project)**  
   A responsive and clean UI template showcasing Tailwind CSS in a Vue.js environment.
 
 ---
@@ -44,7 +44,7 @@ Here are some featured projects that showcase my skills and interests:
 ## 📫 Let's Connect!
 
 - 🌐 Portfolio Website: *(Coming Soon)*  
-- 💼 LinkedIn: [linkedin.com/in/minmonchel](https://linkedin.com/in/minmonchel)  
+- 💼 LinkedIn: https://linkedin.com/in/minmonchel
 - 📬 Email: minmonchel.dev@gmail.com
 
 ---
