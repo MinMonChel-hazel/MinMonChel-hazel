@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Min Mon Chel (Hazel)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/69bac4cc-aaee-4401-8d32-5f496b30be50" /># 👋 Hi there! I'm Min Mon Chel (Hazel)
 
 ### 💻 Frontend Developer
 
@@ -43,7 +43,7 @@ Here are some featured projects that showcase my skills and interests:
 
 ## 📫 Let's Connect!
 
-- 🌐 Portfolio Website: *(Coming Soon)*  
+- 🌐 Portfolio Website: https://minmonchel-dev.netlify.app 
 - 💼 LinkedIn: https://linkedin.com/in/minmonchel
 - 📬 Email: minmonchel.dev@gmail.com
 
