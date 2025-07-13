@@ -1,5 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/69bac4cc-aaee-4401-8d32-5f496b30be50" /># 👋 Hi there! I'm Min Mon Chel (Hazel)
-
 ### 💻 Frontend Developer
 
 I'm passionate about crafting beautiful, responsive UIs, building useful web applications, and continuously learning modern web technologies. I focus mainly on **React**, **Tailwind CSS**, and **Firebase**, delivering projects that are both functional and elegant.
