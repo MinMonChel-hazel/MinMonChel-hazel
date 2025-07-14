@@ -2,7 +2,16 @@
 
 ### 💻 Frontend Developer
 
-I'm passionate about crafting beautiful, responsive UIs, building useful web applications, and continuously learning modern web technologies. I focus mainly on **React**, **Tailwind CSS**, and **Firebase**, delivering projects that are both functional and elegant.
+📍 Bangkok | 📧 minmonchel.dev@gmail.com  
+🔗 Portfolio: [minmonchel-dev.netlify.app](https://minmonchel-dev.netlify.app)  
+🐙 GitHub: [github.com/MinMonChel-hazel](https://github.com/MinMonChel-hazel)
+
+---
+
+### 🧾 Summary  
+Creative and detail-focused frontend developer with solid skills in JavaScript, React, and Firebase.  
+Experienced in building responsive, accessible UIs and translating ideas into clean, user-friendly web apps.  
+Passionate about clean code, modern web standards, and continuous learning.
 
 ---
 
@@ -30,22 +39,21 @@ Here are some featured projects that showcase my skills and interests:
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-```bash
-💡 Languages:     HTML | CSS | JavaScript
-⚛️ Frameworks:    React | Vite | Vue
-🎨 Styling:       Tailwind CSS
-🔥 Backend:       Firebase (Auth + Firestore)
-🛠️ Tools:         VS Code | Git | GitHub
+- 💡 **Languages**: HTML, CSS, JavaScript  
+- ⚛️ **Frameworks/Libraries**: React, Tailwind CSS  
+- 🔥 **Backend**: Firebase  
+- 🛠️ **Tools**: Git, GitHub, VS Code, Figma  
+- 🌐 **Others**: Responsive Design, localStorage, Firestore, Netlify
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
-- 🌐 Portfolio Website: https://minmonchel-dev.netlify.app 
-- 💼 LinkedIn: https://linkedin.com/in/minmonchel
-- 📬 Email: minmonchel.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/MinMonChel-hazel)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Netlify-green?style=flat&logo=netlify)](https://minmonchel-dev.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MinMonChel-hazel)
 
 ---
 
